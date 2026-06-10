@@ -1,0 +1,7 @@
+# Which gamemode to show in nametags.
+# Options: UHC, MACE, SMP, NETHPOT, DIAPOT, AXE, SWORD, CRYSTALS, CART, DIASMP
+# Leave blank ("") to show each player's highest (best) tier across all modes.
+gamemode: ""
+
+# How often to refresh the leaderboard from the API, in minutes (minimum 1).
+refresh-minutes: 5

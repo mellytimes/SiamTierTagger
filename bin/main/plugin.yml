@@ -1,0 +1,10 @@
+name: SiamTierTagger
+version: 1.0.0
+main: work.siamnet.siamtier.SiamTier
+api-version: '1.21'
+description: Shows SiamTier PvP rankings in nametags, tab, and via /tier.
+commands:
+  tier:
+    description: Show a player's SiamTier rankings.
+    usage: /tier [player]
+softdepend: [PlaceholderAPI]
